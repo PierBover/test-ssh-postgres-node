@@ -1,0 +1,1 @@
+I used `0.0.0.0` instead of `127.0.0.1` because my db is running in a Docker container installed with Coolify.
