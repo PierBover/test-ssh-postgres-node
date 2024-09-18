@@ -1,0 +1,17 @@
+{
+  "name": "test-ssh-postgres-node",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node --env-file=.env index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "postgres": "^3.4.4",
+    "ssh2": "^1.16.0"
+  }
+}
